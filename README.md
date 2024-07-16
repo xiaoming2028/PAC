@@ -10,15 +10,17 @@
 
 #### 这里是几个值得推荐的支持Shadowsocks(R)、V2ray、Trojan订阅付费机场，同时也支持Clash软件的：
 
-## WgetCloud 全球加速 – 2023 稳定翻墙机场首选
+## WgetCloud 全球加速 – 2024 稳定翻墙机场首选
 
 [WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8) 是华为云入口IEPL内网专线机场，原GaCloud，本人主用机场之一。老板已有机场行业多年经验。自有机房，自己开发的面板，稳定性不错。
+
+该机场提供多线BGP中转+双程CN2优质线路，以及独享带宽。此外，在香港设有自己的机房，以确保在高峰期的稳定可用性。WgetCloud机场的运营团队从事机场行业已有4年多，技术方面经验丰富，无需担忧。团队成员也分布在海外，保证用户的数据安全。
 
 #### 通过下面链接注册新用户全员无门槛8折优惠券：
 
 ### [WgetCloud官网链接](https://invite.wgetcloud.ltd/auth/register?code=jll8)
 
-- 开业时间：2021
+- 开业时间：2020
 - 老板肉身：海外
 - 入口ip数量：华为云BGP入口，2 （深圳和上海）
 - 过境：IEPL内网
@@ -35,6 +37,25 @@
 ![微信截图_20230219105727](https://user-images.githubusercontent.com/125964212/220576524-0c30cc63-98ab-4fad-89c0-10a6984c647e.png)
 
 ![微信截图_20230219111003](https://user-images.githubusercontent.com/125964212/220576570-531d8ecb-3ec5-4e64-b37c-c15698ae0313.png)
+
+## 万城 V-city - IEPL全专线高端机场
+
+[万城 V-city（万城网络）](https://port01.wc-yz.com/#/register?code=0BnXRJud)是一家位于温哥华的IEPL全专线高端机场服务商。他们提供全域企业级跨境专线，完美支持ChatGPT、Netflix、Disney+ 和 YouTube Premium 等流媒体，以及UDP游戏加速。即使在高峰期和敏感时期，万城网络依然保持4K秒开和稳定性，并备有备用线路以应对突发情况。
+
+万城网络的节点覆盖了30多个国家和地区，不仅有常用的香港、台湾、日本、新加坡、美国节点，还特别布局了小众精品节点，包括马来西亚、菲律宾、韩国、印度、澳大利亚、以色列、加拿大、墨西哥、阿根廷、巴西、智利、英国、法国、德国、俄罗斯、西班牙、瑞典、意大利、荷兰、波兰、南非、土耳其、新西兰、泰国等。
+
+用户可以使用常见的软件如Clash、Shadowrocket、Surge、Quantumult X、Stash等进行订阅支持。如果使用sing-box，则需要进行订阅转换。付款方式支持支付宝和USDT加密货币。
+
+博主本人更倾向于选择「按周期的入门套餐」，作为主用机场，而「按流量的标准套餐」则适合作为备用机场，以防其他机场无法连接时救急使用。
+
+#### 通过下面的链接注册新用户，即可享受全员无门槛9折优惠券：
+
+###  [万城 V-city官网链接](https://port01.wc-yz.com/#/register?code=0BnXRJud)
+
+### 以下为晚高峰测速：
+
+![万城 V-city](https://github.com/user-attachments/assets/6c823e61-108b-427b-ba1f-c29fe4ecc8a9)
+
 
 ## Faston - 全专线高端机场
 

@@ -332,4 +332,6 @@ OpenWrt、iStoreOS 或其他软路由用户，应先确认订阅协议、节点�
 - [红杏云注册和优惠入口](https://hongxingdl.one/web/#/login?code=F9mf31fo)
 - [TAG 机场怎么样](https://github.com/xiaoming2028/TAG-VPN)
 - [WgetCloud 怎么样](https://github.com/xiaoming2028/WgetCloud)
+- [MESL机场怎么样？](https://github.com/xiaoming2028/MESL)
+- [红杏云机场怎么样](https://github.com/xiaoming2028/hongxingyun)
 - [Claude Code防封号&Persona实名认证规避完整指南：国内用户终极解决方案](https://github.com/xiaoming2028/claudecodefangfeng)

@@ -11,7 +11,7 @@
 - **需要大量冷门地区、原生 IP 或家庭宽带 IP：** 优先看 [TAG 机场](https://570836.l49.net/#/auth/d2RtVGgb)。
 - **看重 BGP、IPLC 线路和多地区网络覆盖：** 优先看 [MESL Cloud](https://dg.meslcloud.org/#/register?code=pDfFYQ9z)。
 - **希望官方资料清楚、主流地区够用、按等级选择线路：** 优先看 [WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8)。
-- **需要多设备、流媒体、AI 平台或不限时流量包：** 可以先月付测试 [红杏云](https://hongxingdl.one/web/#/login?code=F9mf31fo)。
+- **需要多设备、流媒体、AI 平台或不限时流量包：** 可以先月付测试 [红杏云](https://hongxingyun.app/?code=F9mf31fo)。
 
 没有任何一家机场能在所有地区、运营商和时间段都保持相同表现。对网络连续性要求高，再准备一家不同线路的备用机场。
 
@@ -34,13 +34,13 @@
 | [TAG](https://570836.l49.net/#/auth/d2RtVGgb)                | 多地区、原生 IP、家庭宽带 IP           | IEPL 内网专线，92+ 国家和地区               | AI 工具、海外账号、流媒体、冷门地区需求      |
 | [MESL](https://dg.meslcloud.org/#/register?code=pDfFYQ9z)    | 170+ 节点、家宽/商宽、AI 与流媒体      | BGP + IPLC + IEPL，173 个节点               | 想把多地区和 IP 资源作为主力候选的用户       |
 | [WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8) | 分级套餐、主流地区、官方帮助资料较完整 | 基础、优质、精品三档，标称 200/300/500 Mbps | 想从清晰套餐中选择主力机场的用户             |
-| [红杏云](https://hongxingdl.one/web/#/login?code=F9mf31fo)   | 多设备、家宽/原生 IP、月付与不限时流量 | Vless + AnyTLS，直连与中转，50+ 节点        | 日常办公、AI、流媒体、家庭多设备和不规律使用 |
+| [红杏云](https://hongxingyun.app/?code=F9mf31fo)   | 多设备、家宽/原生 IP、月付与不限时流量 | Vless + AnyTLS，直连与中转，50+ 节点        | 日常办公、AI、流媒体、家庭多设备和不规律使用 |
 
 ### 30 秒选择结论
 
 1. **节点地区是第一优先级：** 先选 [TAG](https://570836.l49.net/#/auth/d2RtVGgb)。它的差异点不是最低价，而是冷门地区、原生 IP 和家庭宽带 IP。
 2. **家宽、商宽和多地区是第一优先级：** 把 [MESL](https://dg.meslcloud.org/#/register?code=pDfFYQ9z) 放进主力候选，170+ 节点、家宽/商宽、AI 与流媒体。
-3. **多设备和套餐跨度是第一优先级：** [红杏云](https://hongxingdl.one/web/#/login?code=F9mf31fo)可从 200GB 月付开始，支持月付与不限时流量。
+3. **多设备和套餐跨度是第一优先级：** [红杏云](https://hongxingyun.app/?code=F9mf31fo)可从 200GB 月付开始，支持月付与不限时流量。
 4. **希望套餐规则清楚：** 先看 [WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8) 的基础、优质、精品三档。
 
 ## 为什么只比较四家机场
@@ -52,7 +52,7 @@
 - [TAG](https://570836.l49.net/#/auth/d2RtVGgb) 解决冷门地区、IP 类型和海外账号场景。
 - [MESL](https://dg.meslcloud.org/#/register?code=pDfFYQ9z)  解决多地区、家宽/商宽、AI 与流媒体场景。
 - [WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8)  解决主流地区、分级套餐和省心选择。
-- [红杏云](https://hongxingdl.one/web/#/login?code=F9mf31fo)解决多设备、不同流量档位和不限时流量需求。
+- [红杏云](https://hongxingyun.app/?code=F9mf31fo)解决多设备、不同流量档位和不限时流量需求。
 
 四家已经能形成有效对比，再增加大量定位相似的机场，只会提高选择成本。决定购买前，应该把时间花在核对自己的运营商、所在地区、常用客户端和目标服务，而不是继续收集更多名字。
 
@@ -196,7 +196,7 @@ Windows、macOS 和 Android 用户优先使用 FLClash，也可以使用 Clash V
 
 ### 一句话评价
 
-[红杏云](https://hongxingdl.one/web/#/login?code=F9mf31fo)不应再只归类为便宜备用。它的实际定位是多设备、50+ 节点、家宽与原生 IP、流媒体和 AI 平台访问，再加上月付与不限时两类套餐。
+[红杏云](https://hongxingyun.app/?code=F9mf31fo)不应再只归类为便宜备用。它的实际定位是多设备、50+ 节点、家宽与原生 IP、流媒体和 AI 平台访问，再加上月付与不限时两类套餐。
 
 ### 红杏云核心信息
 
@@ -209,7 +209,7 @@ Windows、macOS 和 Android 用户优先使用 FLClash，也可以使用 Clash V
 | 支付方式       | 支付宝、微信、USDT                                           |
 | 平台           | Windows、macOS、Android、iOS 和软路由                        |
 | 当前客户端情况 | 专属客户端重构优化中，Windows 可使用 Clash Verge 等兼容客户端 |
-| 注册入口       | [红杏云官网与优惠链接](https://hongxingdl.one/web/#/login?code=F9mf31fo) |
+| 注册入口       | [红杏云官网与优惠链接](https://hongxingyun.app/?code=F9mf31fo) |
 
 ### 红杏云套餐价格参考
 
@@ -244,7 +244,7 @@ Windows、macOS 和 Android 用户优先使用 FLClash，也可以使用 Clash V
 
 **不太适合：** 只接受成熟的一键客户端、只追求全网最低价，或准备第一次就购买 3000GB/6000GB 套餐的人。
 
-#### [进入红杏云官网，从 200GB 月付开始测试](https://hongxingdl.one/web/#/login?code=F9mf31fo)
+#### [进入红杏云官网，从 200GB 月付开始测试](https://hongxingyun.app/?code=F9mf31fo)
 
 ![hongxingyun](https://github.com/user-attachments/assets/58b2fea2-2b5e-4c4d-81cd-a4826fea190d)
 
@@ -252,13 +252,13 @@ Windows、macOS 和 Android 用户优先使用 FLClash，也可以使用 Clash V
 
 ### 用于 ChatGPT、Claude、Gemini 等 AI 工具
 
-需要大量国家、原生 IP 和家庭宽带 IP 时优先看 [TAG](https://570836.l49.net/#/auth/d2RtVGgb)；想在更多家宽/商宽节点中筛选，可以测试 [MESL](https://dg.meslcloud.org/#/register?code=pDfFYQ9z)；希望兼顾多设备和不同流量档位，可以测试[红杏云](https://hongxingdl.one/web/#/login?code=F9mf31fo)。[WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8) 更适合以常用地区和套餐规则为主的人。AI 平台不仅看节点国家，还会识别 IP 质量、账号常用地区、登录频率和支付信息。
+需要大量国家、原生 IP 和家庭宽带 IP 时优先看 [TAG](https://570836.l49.net/#/auth/d2RtVGgb)；想在更多家宽/商宽节点中筛选，可以测试 [MESL](https://dg.meslcloud.org/#/register?code=pDfFYQ9z)；希望兼顾多设备和不同流量档位，可以测试[红杏云](https://hongxingyun.app/?code=F9mf31fo)。[WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8) 更适合以常用地区和套餐规则为主的人。AI 平台不仅看节点国家，还会识别 IP 质量、账号常用地区、登录频率和支付信息。
 
 建议固定使用一个表现稳定的美国、日本或新加坡节点，避免短时间频繁切换多个国家。需要注册或管理重要账号时，先用小号或非关键业务测试。
 
 ### 用于 Netflix、Disney+ 和其他流媒体
 
-先确认自己要看的具体地区内容库，再测试对应节点。[TAG](https://570836.l49.net/#/auth/d2RtVGgb) 的地区和 IP 类型更丰富；[MESL](https://dg.meslcloud.org/#/register?code=pDfFYQ9z) 能覆盖多项流媒体；[WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8) 的精品套餐覆盖更多国家；[红杏云](https://hongxingdl.one/web/#/login?code=F9mf31fo)在使用中表现较好。
+先确认自己要看的具体地区内容库，再测试对应节点。[TAG](https://570836.l49.net/#/auth/d2RtVGgb) 的地区和 IP 类型更丰富；[MESL](https://dg.meslcloud.org/#/register?code=pDfFYQ9z) 能覆盖多项流媒体；[WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8) 的精品套餐覆盖更多国家；[红杏云](https://hongxingyun.app/?code=F9mf31fo)在使用中表现较好。
 
 不要把“支持流媒体”理解成所有节点永久解锁。平台封锁 IP 后，任何机场都可能需要更换落地或等待修复。
 
@@ -270,7 +270,7 @@ Windows、macOS 和 Android 用户优先使用 FLClash，也可以使用 Clash V
 
 ### 用作低频备用
 
-先核对[红杏云](https://hongxingdl.one/web/#/login?code=F9mf31fo)当前不限时套餐，也可以比较 [TAG](https://570836.l49.net/#/auth/d2RtVGgb) 的流量包。所谓“不限时”只代表套餐流量不按月清零，服务本身仍存在运营风险，购买金额应控制在可以承受的范围内。
+先核对[红杏云](https://hongxingyun.app/?code=F9mf31fo)当前不限时套餐，也可以比较 [TAG](https://570836.l49.net/#/auth/d2RtVGgb) 的流量包。所谓“不限时”只代表套餐流量不按月清零，服务本身仍存在运营风险，购买金额应控制在可以承受的范围内。
 
 ## Clash、Shadowrocket 客户端怎么选
 
@@ -292,7 +292,7 @@ OpenWrt、iStoreOS 或其他软路由用户，应先确认订阅协议、节点�
 
 ### 2026 年机场推荐哪一家最好？
 
-没有脱离使用场景的“最好”。需要大量冷门地区和原生 IP 选 [TAG](https://570836.l49.net/#/auth/d2RtVGgb)；看重 170+ 节点、家宽/商宽和 AI/流媒体实测可测试 [MESL](https://dg.meslcloud.org/#/register?code=pDfFYQ9z)；希望主流地区和套餐规则清楚可测试 [WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8)；需要多设备、月付跨度和不限时流量可测试[红杏云](https://hongxingdl.one/web/#/login?code=F9mf31fo)。
+没有脱离使用场景的“最好”。需要大量冷门地区和原生 IP 选 [TAG](https://570836.l49.net/#/auth/d2RtVGgb)；看重 170+ 节点、家宽/商宽和 AI/流媒体实测可测试 [MESL](https://dg.meslcloud.org/#/register?code=pDfFYQ9z)；希望主流地区和套餐规则清楚可测试 [WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=jll8)；需要多设备、月付跨度和不限时流量可测试[红杏云](https://hongxingyun.app/?code=F9mf31fo)。
 
 ### TAG 和 WgetCloud 怎么选？
 
@@ -329,7 +329,7 @@ OpenWrt、iStoreOS 或其他软路由用户，应先确认订阅协议、节点�
 - [TAG 机场注册链接](https://570836.l49.net/#/auth/d2RtVGgb)
 - [MESL Cloud 官网主页](https://dg.meslcloud.org/#/register?code=pDfFYQ9z)
 - [WgetCloud 套餐、节点和购买流程](https://invite.wgetcloud.ltd/auth/register?code=jll8)
-- [红杏云注册和优惠入口](https://hongxingdl.one/web/#/login?code=F9mf31fo)
+- [红杏云注册和优惠入口](https://hongxingyun.app/?code=F9mf31fo)
 - [TAG 机场怎么样](https://github.com/xiaoming2028/TAG-VPN)
 - [WgetCloud 怎么样](https://github.com/xiaoming2028/WgetCloud)
 - [MESL机场怎么样？](https://github.com/xiaoming2028/MESL)
